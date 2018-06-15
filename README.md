@@ -29,6 +29,7 @@
 > Examples: AdaBoost, Gradient Tree Boosting
 
 ### Week 7: Gradient Boosting Machine (GBM)
+> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
 ### Week 8: eXtreme Gradient Boosting (XGBoost)
 
