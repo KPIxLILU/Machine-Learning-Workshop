@@ -10,9 +10,9 @@
 
 - Scikit-learn
 > http://scikit-learn.org/stable/modules/linear_model.html#linear-model
-> `1.1.1. Ordinary Least Squares`
-> `1.1.2. Ridge Regression`
-> `1.1.3. Lasso`
+> 1.1.1. `Ordinary Least Squares`
+> 1.1.2. `Ridge Regression`
+> 1.1.3. `Lasso`
 
 ### Week 3: Logistic Regression `信賢`
 
