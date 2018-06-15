@@ -1,5 +1,6 @@
 # Machine-Learning-Workshop
-### Week 1: 機器學習基石Overview `泰瑋`
+### Week 1: 機器學習基石Overview `泰瑋` 
+> 1. https://hackmd.io/6YkQWaLARNWOMQmMxEnLHg
 
 ### Week 2: Linear Regression `宛誼`
 - 機器學習基石
