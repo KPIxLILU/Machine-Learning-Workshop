@@ -22,10 +22,10 @@
 
 ### Week 6: Ensemble
 - Two families of ensemble methods are usually distinguished:
-1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
+> 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
 > Examples: Bagging methods, Forests of randomized trees
 
-2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
+> 2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
 > Examples: AdaBoost, Gradient Tree Boosting
 
 ### Week 7: Gradient Boosting Machine (GBM)
