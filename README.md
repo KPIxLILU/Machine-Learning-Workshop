@@ -15,11 +15,11 @@
 > 2. Ridge Regression
 > 3. Lasso
 
-### Week 3: Logistic Regression `信賢`
+### Week 3: Logistic Regression `Rex`
 
-### Week 4: Classification And Regression Tree (CART) ˋRexˋ
+### Week 4: Classification And Regression Tree (CART) ˋ信賢ˋ
 
-### Week 5: Random Forest ``
+### Week 5: Random Forest `宗聖`
 
 ### Week 6: Ensemble `Jesse`
 - Two families of ensemble methods are usually distinguished:
