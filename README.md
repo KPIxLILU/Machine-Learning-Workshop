@@ -2,7 +2,7 @@
 ### Week 1: 機器學習基石Overview `泰瑋` 
 > 1. https://hackmd.io/6YkQWaLARNWOMQmMxEnLHg
 
-### Week 2: Linear Regression `宛誼`
+### Week 2: Linear Regression `宛誼` jjjjjjjjjjjjj
 - 機器學習基石
 > 1. https://www.youtube.com/watch?v=qGzjYrLV-4Y&index=34&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
 > 2. https://www.youtube.com/watch?v=2LfdSCdcg1g&index=35&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
