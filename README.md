@@ -15,6 +15,10 @@
 > 2. Ridge Regression
 > 3. Lasso
 
+- 投影片＆Ｃode
+> 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/Machine-Learning-Workshop/Week2.Linear Regression.pdf)
+> 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/Linear Regression/Linear Regression.ipynb)
+
 ### Week 3: Logistic Regression `Rex`
 
 ### Week 4: Classification And Regression Tree (CART) `信賢`
