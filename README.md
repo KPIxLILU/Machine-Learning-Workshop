@@ -17,7 +17,7 @@
 
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/Machine-Learning-Workshop/Week2.Linear%Regression.pdf)
-> 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/Linear Regression/Linear%Regression.ipynb)
+> 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/Linear%Regression/Linear%Regression.ipynb)
 
 ### Week 3: Logistic Regression `Rex`
 
