@@ -16,7 +16,7 @@
 > 3. Lasso
 
 - 投影片＆Ｃode
-> 1. [Link to PPT](Machine-Learning-Workshop/Week2.Linear Regression.pdf)
+> 1. [Link to PPT](Machine-Learning-Workshop/Week2.Linear%Regression.pdf)
 > 2. [Link to Demo Code](Data-Science/Linear Regression/Linear Regression.ipynb)
 
 ### Week 3: Logistic Regression `Rex`
