@@ -36,6 +36,6 @@
 ### Week 7: Gradient Boosting Machine (GBM) `文銘`
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
-### Week 8: eXtreme Gradient Boosting (XGBoost) 
+### Week 8: eXtreme Gradient Boosting (XGBoost) `芳妤`
 
 ### Week 9: Neural Networks 
