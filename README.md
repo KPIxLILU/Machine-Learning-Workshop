@@ -17,7 +17,7 @@
 
 ### Week 3: Logistic Regression `Rex`
 
-### Week 4: Classification And Regression Tree (CART) ˋ信賢ˋ
+### Week 4: Classification And Regression Tree (CART) `信賢`
 
 ### Week 5: Random Forest `宗聖`
 
