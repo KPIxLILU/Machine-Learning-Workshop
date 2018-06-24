@@ -2,7 +2,7 @@
 ### Week 1: 機器學習基石Overview `泰瑋` 
 > 1. https://hackmd.io/6YkQWaLARNWOMQmMxEnLHg
 
-### Week 2: Linear Regression `宛誼`
+### Week 2: Linear Regression `宛誼` (6/21)
 - 機器學習基石
 > 1. https://www.youtube.com/watch?v=qGzjYrLV-4Y&index=34&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
 > 2. https://www.youtube.com/watch?v=2LfdSCdcg1g&index=35&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
@@ -15,13 +15,13 @@
 > 2. Ridge Regression
 > 3. Lasso
 
-### Week 3: Logistic Regression `信賢`
+### Week 3: Logistic Regression `Rex`
 
-### Week 4: Classification And Regression Tree (CART)
+### Week 4: Classification And Regression Tree (CART) ˋ信賢ˋ
 
-### Week 5: Random Forest
+### Week 5: Random Forest `宗聖`
 
-### Week 6: Ensemble
+### Week 6: Ensemble `Jesse`
 - Two families of ensemble methods are usually distinguished:
 > 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
 > Examples: Bagging methods, Forests of randomized trees
@@ -29,9 +29,9 @@
 > 2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
 > Examples: AdaBoost, Gradient Tree Boosting
 
-### Week 7: Gradient Boosting Machine (GBM)
+### Week 7: Gradient Boosting Machine (GBM) `文銘`
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
-### Week 8: eXtreme Gradient Boosting (XGBoost)
+### Week 8: eXtreme Gradient Boosting (XGBoost) 
 
-### Week 9: Neural Networks
+### Week 9: Neural Networks 
