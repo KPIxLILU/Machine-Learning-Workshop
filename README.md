@@ -23,9 +23,8 @@
 
 ### Week 4: Classification And Regression Tree (CART) `信賢`
 
-### Week 5: Random Forest `宗聖`
-
-### Week 6: Ensemble `Jesse`
+### Week 5: Random Forest & Ensemble `宗聖&婷羽`
+- Ensemble 
 - Two families of ensemble methods are usually distinguished:
 > 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
 > Examples: Bagging methods, Forests of randomized trees
@@ -33,9 +32,7 @@
 > 2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
 > Examples: AdaBoost, Gradient Tree Boosting
 
-### Week 7: Gradient Boosting Machine (GBM) `文銘`
+### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `文銘&芳妤`
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
-### Week 8: eXtreme Gradient Boosting (XGBoost) `芳妤`
-
-### Week 9: Neural Networks 
+### Week 7: Neural Networks `Jesse`
