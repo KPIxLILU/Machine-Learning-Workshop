@@ -18,12 +18,13 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week2.Linear%20Regression.pdf)
 > 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/Linear%20Regression/Linear%20Regression.ipynb)([Data](https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip))
+> 3. [Link to Demo Code_fran's review] (https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb)
 
-### Week 3: Logistic Regression `Rex`
+### Week 3: Logistic Regression `Rex`(6/25)
 
-### Week 4: Classification And Regression Tree (CART) `信賢`
+### Week 4: Classification And Regression Tree (CART) `信賢`(7/2)
 
-### Week 5: Random Forest & Ensemble `宗聖&婷羽`
+### Week 5: Random Forest & Ensemble `fran&婷羽`(7/9)
 - Ensemble 
 - Two families of ensemble methods are usually distinguished:
 > 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
@@ -32,7 +33,7 @@
 > 2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
 > Examples: AdaBoost, Gradient Tree Boosting
 
-### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `文銘&芳妤`
+### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `文銘&芳妤` (7/16)
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
-### Week 7: Neural Networks `Jesse`
+### Week 7: Neural Networks `Jesse` (7/25)
