@@ -24,7 +24,7 @@
 
 ### Week 4: Classification And Regression Tree (CART) `信賢`(7/2)
 
-### Week 5: Random Forest & Ensemble `fran&婷羽`(7/9)
+### Week 5: Random Forest & Ensemble `fran&昱睿`(7/9)
 - Ensemble 
 - Two families of ensemble methods are usually distinguished:
 > 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
