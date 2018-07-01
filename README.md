@@ -35,6 +35,9 @@
 
 -[決策樹如何剪枝參考](https://blog.csdn.net/jerry81333/article/details/53182193)
 
+- 投影片＆Ｃode
+> 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
+
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/9)
 - Ensemble 
 - Two families of ensemble methods are usually distinguished:
