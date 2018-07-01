@@ -33,7 +33,8 @@
 
 > 4.[Decision Tree in Action ](https://www.youtube.com/watch?v=ryWTrPPbqcg&index=37&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
--[決策樹如何剪枝參考]（https://blog.csdn.net/jerry81333/article/details/53182193）
+-[決策樹如何剪枝參考]
+（https://blog.csdn.net/jerry81333/article/details/53182193）
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/9)
 - Ensemble 
