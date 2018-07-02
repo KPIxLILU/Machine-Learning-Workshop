@@ -37,6 +37,7 @@
 
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
+> 2. [Link to code](https://github.com/erik1110/Machine-Learning/blob/master/Titantic-Decision%20Tree2.ipynb)
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/9)
 - Ensemble 
