@@ -18,7 +18,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week2.Linear%20Regression.pdf)
 > 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/Linear%20Regression/Linear%20Regression.ipynb)([Data](https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip))
-> 3. [Link to Demo Code_fran's review] (https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb)
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb)
 
 ### Week 3: Logistic Regression `Rex`(6/25)
 > 1. [Link to PDF](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week3.Logistic%20Regression.pdf)
@@ -41,6 +41,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
 > 2. [Link to code](https://github.com/erik1110/Machine-Learning/blob/master/Titantic-Decision%20Tree2.ipynb)
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/CART_DEMO_review_Titanic.ipynb)
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/12)
 - Ensemble 
