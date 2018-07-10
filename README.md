@@ -52,7 +52,7 @@
 > 2. By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble.
 > Examples: AdaBoost, Gradient Tree Boosting
 
-### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `文銘&芳妤` (7/16)
+### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `璧羽&芳妤` (7/16)
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
 ### Week 7: Neural Networks `Jesse` (7/25)
