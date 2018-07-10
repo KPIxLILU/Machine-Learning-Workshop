@@ -44,7 +44,11 @@
 > 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/CART_DEMO_review_Titanic.ipynb)
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/12)
-- Ensemble 
+
+lecture:https://www.youtube.com/watch?v=XsC9byQkUH8&feature=youtu.be
+PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%20(v6).pdf)
+
+- Ensemble: Bagging and Boosting
 - Two families of ensemble methods are usually distinguished:
 > 1. In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced.
 > Examples: Bagging methods, Forests of randomized trees
