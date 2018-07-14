@@ -57,6 +57,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > Examples: AdaBoost, Gradient Tree Boosting
 
 ### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `璧羽&芳妤` (7/16)
+lecture_GBDT https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
 ### Week 7: Neural Networks `Jesse` (7/25)
