@@ -59,6 +59,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 ### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `璧羽&芳妤` (7/16)
 lecture_GBDT https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
+
 -前半段介紹ＧＢ
 >https://blog.csdn.net/u011094454/article/details/78948989
 
