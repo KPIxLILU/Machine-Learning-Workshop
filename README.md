@@ -62,8 +62,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 -GBDT
 >Lecture 
 >https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
-
--PPT 
+>PPT 
 >https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/GBM.pdf
 
 -XGBOOST 
