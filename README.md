@@ -60,7 +60,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
 -GBDT
--Lecture 
+>Lecture 
 >https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 
 -PPT 
