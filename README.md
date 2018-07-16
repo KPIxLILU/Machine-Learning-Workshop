@@ -59,15 +59,19 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 ### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `璧羽&芳妤` (7/16)
 lecture_GBDT https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
-前半段介紹ＧＢ
+-前半段介紹ＧＢ
 >https://blog.csdn.net/u011094454/article/details/78948989
-先看完這三篇
+
+-先看完這三篇
 >https://hk.saowen.com/a/e997166f37dc6022138607838ec7c83ba6f89b2d5d11fe248e0925968b410f33 
 >https://hk.saowen.com/a/7214d5cc99d98d81736f766d77cd568dae07aadf85f027a1e5acdd57839e7f91
 >http://www.52cs.org/?p=429
-最後再看這篇
+
+-最後再看這篇
 >https://medium.com/@cyeninesky3/xgboost-a-scalable-tree-boosting-system-%E8%AB%96%E6%96%87%E7%AD%86%E8%A8%98%E8%88%87%E5%AF%A6%E4%BD%9C-2b3291e0d1fe
->論文原文：   https://arxiv.org/pdf/1603.02754v1.pdf
->作者ＰＰＴ：  https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
+
+論文原文：   https://arxiv.org/pdf/1603.02754v1.pdf
+
+作者ＰＰＴ：  https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 
 ### Week 7: Neural Networks `Jesse` (7/25)
