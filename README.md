@@ -26,7 +26,7 @@
 
 
 ### Week 4: Classification And Regression Tree (CART) `信賢`(7/2)
--[[資料分析&機器學習] 第3.5講 : 決策樹(Decision Tree)以及隨機森林(Random Forest)介紹)](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
+- [[資料分析&機器學習] 第3.5講 : 決策樹(Decision Tree)以及隨機森林(Random Forest)介紹)](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
 - 機器學習技法
 > 1.[Decision Tree Hypothesis](https://www.youtube.com/watch?v=dAqPpAXnMJ4&index=34&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
@@ -36,7 +36,7 @@
 
 > 4.[Decision Tree in Action ](https://www.youtube.com/watch?v=ryWTrPPbqcg&index=37&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
--[決策樹如何剪枝參考](https://blog.csdn.net/jerry81333/article/details/53182193)
+- [決策樹如何剪枝參考](https://blog.csdn.net/jerry81333/article/details/53182193)
 
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
@@ -59,29 +59,35 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 ### Week 6: Gradient Boosting Machine (GBM) & eXtreme Gradient Boosting (XGBoost) `璧羽&芳妤` (7/16)
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
 
--GBDT
+- GBDT
 > 1. Lecture 
->https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
+> https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > 2. PPT 
->https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/GBM.pdf
+> https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/GBM.pdf
 > 3. [Link to Demo Code_fran's review_Titanic](https://github.com/sunchigg/JrML/blob/master/GBDT_Titanic.ipynb)
 
--XGBOOST 
--[Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/xgboost_PDF.pdf)
+- XGBOOST 
+- [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/xgboost_PDF.pdf)
 
--前半段介紹ＧＢ
+- 前半段介紹ＧＢ
 >https://blog.csdn.net/u011094454/article/details/78948989
 
--先看完這三篇
->https://hk.saowen.com/a/e997166f37dc6022138607838ec7c83ba6f89b2d5d11fe248e0925968b410f33 
->https://hk.saowen.com/a/7214d5cc99d98d81736f766d77cd568dae07aadf85f027a1e5acdd57839e7f91
->http://www.52cs.org/?p=429
+- 先看完這三篇
+> https://hk.saowen.com/a/e997166f37dc6022138607838ec7c83ba6f89b2d5d11fe248e0925968b410f33 
+> https://hk.saowen.com/a/7214d5cc99d98d81736f766d77cd568dae07aadf85f027a1e5acdd57839e7f91
+> http://www.52cs.org/?p=429
 
--最後再看這篇
->https://medium.com/@cyeninesky3/xgboost-a-scalable-tree-boosting-system-%E8%AB%96%E6%96%87%E7%AD%86%E8%A8%98%E8%88%87%E5%AF%A6%E4%BD%9C-2b3291e0d1fe
+- 最後再看這篇
+> https://medium.com/@cyeninesky3/xgboost-a-scalable-tree-boosting-system-%E8%AB%96%E6%96%87%E7%AD%86%E8%A8%98%E8%88%87%E5%AF%A6%E4%BD%9C-2b3291e0d1fe
 
-論文原文：   https://arxiv.org/pdf/1603.02754v1.pdf
+- 論文原文：https://arxiv.org/pdf/1603.02754v1.pdf
 
-作者ＰＰＴ：  https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
+- 作者ＰＰＴ：https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 
-### Week 7: Neural Networks `Jesse` (7/25)
+### Week 7: XGBoost and LightGBM `Jesse&宛誼` (7/23)
+- Article and Tutorial: [Link1](file:///Users/mayritaspring/Desktop/Data%20Science%20Tutorial/GBM/How%20to%20Configure%20the%20Gradient%20Boosting%20Algorithm.webarchive), [Link2](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- LightGBM
+> [Installation-Guide for LightGBM](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html)
+> [Documeatation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
+> [Link to PPT]()
+> [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
