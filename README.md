@@ -82,9 +82,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 - 作者ＰＰＴ：https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 
 ### Week 7: XGBoost and LightGBM `Jesse&宛誼` (7/23)
-- Article and Tutorial:
-
-[Link1](file:///Users/mayritaspring/Desktop/Data%20Science%20Tutorial/GBM/How%20to%20Configure%20the%20Gradient%20Boosting%20Algorithm.webarchive), [Link2](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- Article and Tutorial:[Link1](https://machinelearningmastery.com/configure-gradient-boosting-algorithm/), [Link2](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 - LightGBM
 > 1. [Installation-Guide for LightGBM](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html)
 > 2. [Documeatation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
