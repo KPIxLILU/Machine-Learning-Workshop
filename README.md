@@ -88,3 +88,9 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 2. [Documentation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
 > 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20with%20GridSearch%20and%20Bayesian%20Optimization(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
+
+### Week 8: Factorization Machine and KPIxLILU@Kaggle `fran&泰瑋` (7/30)
+- KPIxLILU@Kaggle
+> 1.Data: 請使用[Titanic Dataset](https://www.kaggle.com/c/titanic)或是[Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk/data)
+> 2.Method: 不限(EX:Random Forest, XGBoost, LightGBM, Ensemble, Stacking...)
+> 3.Demo: 於7/30大家一起討論與分享
