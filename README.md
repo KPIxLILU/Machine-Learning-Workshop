@@ -85,6 +85,6 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 - Article and Tutorial:[Link1](https://machinelearningmastery.com/configure-gradient-boosting-algorithm/), [Link2](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 - LightGBM
 > 1. [Installation-Guide for LightGBM](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html)
-> 2. [Documeatation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
-> 3. [Link to PPT]()
+> 2. [Documentation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
+> 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
