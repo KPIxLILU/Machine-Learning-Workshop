@@ -95,3 +95,13 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 關於鐵達尼的Data Sources，有人問gender_submission.csv是什麼呢？是只有根據gender是男女的資訊來示範預估生存與否。因此我們要做的就是把模型predict出來的Survived欄位灌到這張表，就可以上傳kaggle啦。(Fran以上補充)
 > 2. Method: 不限(EX:Random Forest, XGBoost, LightGBM, Ensemble, Stacking...)
 > 3. Demo: 於7/30大家一起討論與分享
+
+- Factorization Machine
+> 1. Factorization Machines的論文[Steffen Rendle](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)。
+> 2. 貸款三少推薦[FM好文](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
+> 3. 課前素材（有閒再看），初探產品推薦演算法之演進及其優缺點。[Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
+
+### Week 9: TBD
+
+
+
