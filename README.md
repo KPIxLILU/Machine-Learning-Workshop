@@ -60,7 +60,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 1. Lecture 
 > https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > 2. PPT 
-> https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/GBM.pdf
+> https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/GBM.pptx
 > 3. [Link to Demo Code_fran's review_Titanic](https://github.com/sunchigg/JrML/blob/master/GBDT_Titanic.ipynb)
 
 - XGBOOST 
