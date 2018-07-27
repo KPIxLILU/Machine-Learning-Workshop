@@ -36,7 +36,7 @@
 - [決策樹如何剪枝參考](https://blog.csdn.net/jerry81333/article/details/53182193)
 
 - 投影片＆Ｃode
-> 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/Tutorial/Week4.DecisionTree(CART).pdf)
+> 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/Week4.DecisionTree(CART).pdf)
 > 2. [Link to code](https://github.com/erik1110/Machine-Learning/blob/master/Titantic-Decision%20Tree2.ipynb)
 > 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/CART_DEMO_review_Titanic.ipynb)
 
@@ -64,7 +64,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 3. [Link to Demo Code_fran's review_Titanic](https://github.com/sunchigg/JrML/blob/master/GBDT_Titanic.ipynb)
 
 - XGBOOST 
-- [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/xgboost_PDF.pdf)
+- [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/xgboost_PDF.pdf)
 
 - 前半段介紹ＧＢ
 > https://blog.csdn.net/u011094454/article/details/78948989
