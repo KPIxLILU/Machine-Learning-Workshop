@@ -89,18 +89,18 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20with%20GridSearch%20and%20Bayesian%20Optimization(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
 
-### Week 8: Factorization Machine and KPIxLILU@Kaggle `fran&泰瑋` (7/30) `FM種子顧問：宛誼`
+### Week 8: Factorization Machines and KPIxLILU@Kaggle `fran&泰瑋` (7/30) `FM種子顧問：宛誼`
 - KPIxLILU@Kaggle
 > 1. Data: 請使用[Titanic Dataset](https://www.kaggle.com/c/titanic)或是[Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk/data)。
 > 關於鐵達尼的Data Sources，有人問gender_submission.csv是什麼呢？是只有根據gender是男女的資訊來示範預估生存與否。因此我們要做的就是把模型predict出來的Survived欄位灌到這張表，就可以上傳kaggle啦。(Fran以上補充)
 > 2. Method: 不限(EX:Random Forest, XGBoost, LightGBM, Ensemble, Stacking...)
 > 3. Demo: 於7/30大家一起討論與分享
 
-- Factorization Machine
+- Factorization Machines
 > 0. Franの課外小教室「看不懂Ｏ(MN)、Ｏ(N^2)什麼意思？」大Ｏ符號是一種漸進符號，用來描述數列級數的層級，無限大還是有很多不同層次的，取決於函數中高階項等因素。在電腦科學中引進這樣的概念描述演算法的時間複雜度，有助於頗析不同演算法之間的數量級差異。以下提供對我來說比較好的例子理解：(1)傳統協同過濾假設M個顧客對於N種產品有偏好，整體的計算維度就是Ｏ(MN)，當然這沒有考慮到資料的稀疏性。(2) Bubble Sort是一個無腦的依序倆倆比較，如果順序錯了就交換順序，並往前再比，最慘的情況就是比到第n個，結果發現最小，再往回比n次，才能排到第一個，整體的計算維度就是Ｏ(N^2)。(3)矩陣的乘法就是Ｏ(N^3)。參考資料：[大Ｏ符號](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7), [時間複雜度](https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6)
 
 > 1. Factorization Machines的論文[Steffen Rendle](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)。
-> 2. 貸款三少推薦[FM好文](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
+> 2. 貸款三少推薦[FM好文1](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
 > 3. 課前素材（有閒再看），初探產品推薦演算法之演進及其優缺點。[Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
 
 ### Week 9: TBD
