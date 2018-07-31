@@ -88,6 +88,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 2. [Documentation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
 > 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20with%20GridSearch%20and%20Bayesian%20Optimization(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
+> 5. [Link to Demo Code_fran's review_HomeCredit_lightGBM_GridSearch](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_GridSearch.ipynb) , [Link to Demo Code_fran's review_HomeCredit_lightGBM_bayes_opt](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_bayes_opt.ipynb)
 
 ### Week 8: Factorization Machines and KPIxLILU@Kaggle `fran&泰瑋` (7/30) `FM種子顧問：宛誼`
 
@@ -99,7 +100,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 2. 貸款三少推薦[FM好文1](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
 > 3. 課前素材（有閒再看），初探產品推薦演算法之演進及其優缺點。[Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
 
-### Week 9: Sharing I(Feature engineering & Model tuning) `REX&Erik` (8/6)
+### Week 9: Sharing I(Feature engineering & Model tuning) `Rex&Erik` (8/6)
 
 - KPIxLILU@Kaggle
 > 1. Data: 請使用[Titanic Dataset](https://www.kaggle.com/c/titanic)或是[Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk/data)。
