@@ -111,9 +111,13 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 5. [Erik與大家分享的Titanic特徵工程作法參考網站](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
 
 
-### Week 10: Week 9: Sharing I(Vision API Guild & EDM feature engineering) `Fran` (8/13)
+### Week 10: Sharing II(Vision API Guild & EDM feature engineering) `Fran` (8/13)
 
-> 1. 晚點補上～
+> 1. Subject Extraction with Jieba
+> 2. Label Annotations of Image Materials with GOOGLE VISION API
+> 3. Textual information of Image Materials with GOOGLE DRIVE API
+> 4. Titanic sharing and discussion
 
-### Week 11: TBD  (8/20)
+
+### Week 11: Sharing III (8/20)
 
