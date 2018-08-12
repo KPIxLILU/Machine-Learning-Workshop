@@ -107,6 +107,13 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 關於鐵達尼的Data Sources，有人問gender_submission.csv是什麼呢？是只有根據gender是男女的資訊來示範預估生存與否。因此我們要做的就是把模型predict出來的Survived欄位灌到這張表，就可以上傳kaggle啦。(Fran以上補充)
 > 2. Method: 不限(EX:Random Forest, XGBoost, LightGBM, Ensemble, Stacking...)
 > 3. Demo: 於8/6大家一起討論與分享，主講人可以先跟大家說要用什麼資料
+> 4. [Link to Demo by Rex](https://github.com/sunchigg/JrML/blob/master/Rex/XGB_0.80382.ipynb)
+> 5. [Erik與大家分享的Titanic特徵工程作法參考網站](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
 
-### Week 10: TBD
+
+### Week 10: Week 9: Sharing I(Vision API Guild & EDM feature engineering) `Fran` (8/13)
+
+> 1. 晚點補上～
+
+### Week 11: TBD  (8/20)
 
