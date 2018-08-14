@@ -116,8 +116,12 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 1. Subject Extraction with Jieba
 > 2. Label Annotations of Image Materials with GOOGLE VISION API
 > 3. Textual information of Image Materials with GOOGLE DRIVE API
-> 4. Titanic sharing and discussion
+> 4. Titanic sharing and discussion.[fran's demo](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
 
 
-### Week 11: Sharing III (8/20)
+### Week 11: Sharing III (TBD) `Peggy` (8/20)
+
+
+
+### Week 12: Sharing IV (TBD) (8/27)
 
