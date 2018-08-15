@@ -115,12 +115,12 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 > 1. Subject Extraction with Jieba
 > 2. Label Annotations of Image Materials with GOOGLE VISION API
-> [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
-> [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
+* [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
+* [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 
 > 3. Textual information of Image Materials with GOOGLE DRIVE API
 > 4. Titanic sharing and discussion.
-[Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
+* [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
 
 
 ### Week 11: Sharing III (TBD) `Peggy` (8/20)
