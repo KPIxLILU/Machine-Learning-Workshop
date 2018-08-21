@@ -122,7 +122,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 * [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
 
 
-### Week 11: Sharing III (TBD) `Peggy` (8/20)
+### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/23)
 
 
 
