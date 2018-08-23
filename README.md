@@ -124,7 +124,9 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/23)
 1.Google Colab introduction
+
 2.Kaggle Api upload
+
 3.Esun Toydatasets sharing
 
 
