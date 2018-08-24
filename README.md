@@ -123,14 +123,12 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
-1.Google Colab introduction
+ 1.Google Colab introduction
+ 2.Kaggle Api upload
+ 3.Esun Toydatasets sharing
 
-2.Kaggle Api upload
-
-3.Esun Toydatasets sharing
-
-PCA:
-https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71
+   PCA: https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71
+   
 
 ### Week 12: Sharing IV (TBD) (8/27)
 
