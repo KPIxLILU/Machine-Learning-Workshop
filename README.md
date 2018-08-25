@@ -113,24 +113,26 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 10: Sharing II(Vision API Guild & EDM feature engineering) `Fran` (8/13)
 
-1. Subject Extraction with Jieba
-2. Label Annotations of Image Materials with GOOGLE VISION API
-* [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
-* [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
-3. Textual information of Image Materials with GOOGLE DRIVE API
-4. Titanic sharing and discussion.
-* [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
+> 1. Subject Extraction with Jieba
+> * [Jieba&GOOG_TransAPI_demo](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/Jieba%26GOOG_TransAPI_demo.ipynb)
+> * [demo_data](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/EDM_features_for_demo.csv)
+> 2. Label Annotations of Image Materials with GOOGLE VISION API
+> * [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
+> * [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
+> 3. Textual information of Image Materials with GOOGLE DRIVE API
+> 4. Titanic sharing and discussion.
+> * [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
 
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
- 1.Google Colab introduction
+> 1.Google Colab introduction
  
- 2.Kaggle Api upload
+> 2.Kaggle Api upload
  
- 3.Esun Toydatasets sharing
+> 3.Esun Toydatasets sharing
 
-   PCA: https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71
+> PCA: https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71
    
 
-### Week 12: Sharing IV (TBD) (8/27)
+### Week 12: Introduction to Principal Component Analysis (PCA) (8/27) `Yurei`
 
