@@ -137,3 +137,6 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 12: Introduction to Principal Component Analysis (PCA) (8/27) `Yurei`
 
+1.Wikipedia-PCA:https://en.wikipedia.org/wiki/Principal_component_analysis
+2.An intuitive explanation of PCA(provided by Jesse Wu):http://mengnote.blogspot.com/2013/05/an-intuitive-explanation-of-pca.html
+3.教科書：資料科學家手冊
