@@ -137,6 +137,13 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 12: Introduction to Principal Component Analysis (PCA) (8/27) `Yurei`
 
-1.Wikipedia-PCA:https://en.wikipedia.org/wiki/Principal_component_analysis
-2.An intuitive explanation of PCA(provided by Jesse Wu):http://mengnote.blogspot.com/2013/05/an-intuitive-explanation-of-pca.html
-3.教科書：資料科學家手冊
+>1.Wikipedia-PCA:https://en.wikipedia.org/wiki/Principal_component_analysis
+>2.An intuitive explanation of PCA(provided by Jesse Wu):http://mengnote.blogspot.com/2013/05/an-intuitive-explanation-of-pca.html
+>3.教科書：資料科學家手冊
+>4.Gram_Schmidt Process:https://en.wikipedia.org/wiki/Gram–Schmidt_process
+>Q1:有沒有可能很多筆資料算出來的主成份變數的值完全一樣？
+>A:有可能。1.因為我們在跑PCA時可能只取其中部分變數，使得某些觀測點放到PCA後，剛好所選取的變數是相同的；而不同的地方可能因為變異數小而被忽略。2.因為PCA是利用正交線性映射(orthogonal transform)，而正交映射一定是一對一函數，所以主成份變數完全相同的話代表原本的資料根本一樣。
+>Q2:PCA所算出來的各個向量是否確定都互相垂直？
+>A:是，因為在推導PCA的過程中將eigenvector都使用Gram-Schmidt Process，所以確定都是互相垂直的。
+>Q3:隨機森林的feature importance與PCA變數篩選意義是一樣的嗎？
+>A:不太一樣。隨機森林的feature importance是計算每個變數與目標y的重要程度，是一種監督式學習；而PCA是尋找一個座標系，將對應過去的資料選取變異數大的變數（方向）當作座標軸，而不考慮與何種y之間的關係，僅考慮資料間的差異。
