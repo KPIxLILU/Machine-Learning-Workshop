@@ -158,3 +158,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 >Q3:隨機森林的feature importance與PCA變數篩選意義是一樣的嗎？
 
 >A:不太一樣。隨機森林的feature importance是計算每個變數與目標y的重要程度，是一種監督式學習；而PCA是尋找一個座標系，將對應過去的資料選取變異數大的變數（方向）當作座標軸，而不考慮與何種y之間的關係，僅考慮資料間的差異。
+
+> * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/PCA_demo.ipynb)
+
+### Week 13: TBD `芳妤` (9/3)
