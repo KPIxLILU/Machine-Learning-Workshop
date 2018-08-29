@@ -145,6 +145,8 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 >4.Gram_Schmidt Process:https://en.wikipedia.org/wiki/Gram–Schmidt_process
 
+>5.sklearn.pca:http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
 >Q1:有沒有可能很多筆資料算出來的主成份變數的值完全一樣？
 
 >A:有可能。1.因為我們在跑PCA時可能只取其中部分變數，使得某些觀測點放到PCA後，剛好所選取的變數是相同的；而不同的地方可能因為變異數小而被忽略。2.因為PCA是利用正交線性映射(orthogonal transform)，而正交映射一定是一對一函數，所以主成份變數完全相同的話代表原本的資料根本一樣。
