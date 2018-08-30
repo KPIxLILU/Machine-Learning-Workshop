@@ -126,10 +126,10 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
 > 1.Google Colab introduction\2.Esun Toydatasets sharing
-> * [Instruction and Demo code](https://github.com/Sharing_Material/toydatasets_for_colab.ipynb)
- 
+> * [Instruction and Demo code](https://github.com/peggy302003/Sharing_Material/blob/master/toydatasets_for_colab.ipynb)
+
 > 3.Kaggle Api upload
-> * [step-by-step Guide](https://github.com/Sharing_Material/Install_kaggleAPI_tutorial.ipynb) 
+> * [step-by-step Guide](https://github.com/peggy302003/Sharing_Material/blob/master/Install_kaggleAPI_tutorial.ipynb) 
 
 > PCA reference: https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71
    
