@@ -126,7 +126,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
 > 1.Google Colab introduction\2.Esun Toydatasets sharing
-> * [Instruction and Demo code](https://github.com/peggy302003/Sharing_Material/toydatasets_for_colab.ipynb)
+> * [Instruction and Demo code](https://github.com/Sharing_Material/toydatasets_for_colab.ipynb)
  
 > 3.Kaggle Api upload
 > * [step-by-step Guide](https://github.com/Sharing_Material/Install_kaggleAPI_tutorial.ipynb) 
