@@ -160,4 +160,4 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 > * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/PCA_demo.ipynb)
 
-### Week 13: TBD `芳妤` (9/3)
+### Week 13: Sharing IV(Fraud Detection) `芳妤` (9/3)
