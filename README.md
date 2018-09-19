@@ -1,4 +1,7 @@
 # Machine-Learning-Workshop
+
+## Semester 1
+
 ### Week 1: 機器學習基石Overview `泰瑋` 
 > 1. https://hackmd.io/6YkQWaLARNWOMQmMxEnLHg
 
@@ -164,3 +167,19 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 14: Discussion (9/10)
 https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9tYr8/edit#gid=0
+
+## Semester 2
+
+### Week 15: Introduction to Linear Algebra `Yurei` (9/17) (OPT)
+
+> 1. [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
+
+> * Topics mentioned: bases and orthogonal bases, eigenvalues and eigenvectors, vector space, etc.
+
+> 2. [3Blue1Brown - YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+### Week 16: TBD `Yurei` (9/25)
+
+
+
+
