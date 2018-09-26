@@ -180,6 +180,8 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 16: TBD `Yurei` (9/25)
 
+> 1.Brief Introduction of Deep Learning(pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/DL%20(v2).pdf , video:https://www.youtube.com/watch?v=Dr-WRlEFefw)
 
+> 2.Backpropagation (pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf , video:https://www.youtube.com/watch?v=ibJpTrp5mcE)
 
 
