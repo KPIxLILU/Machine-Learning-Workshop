@@ -184,4 +184,5 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2.Backpropagation (pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf , video:https://www.youtube.com/watch?v=ibJpTrp5mcE)
 
+> 3.Deep_Learning(https://github.com/oreilly-japan/deep-learning-from-scratch)看ch04的two_layer_net還有dataset
 
