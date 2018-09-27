@@ -183,7 +183,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > 1. [Brief Introduction of Deep Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/DL%20(v2).pdf)
 > *  [video here](https://www.youtube.com/watch?v=Dr-WRlEFefw)
 
-> 2. [Backpropagation] (pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf)
+> 2. [Backpropagation] (http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf)
 > *  [video here](https://www.youtube.com/watch?v=ibJpTrp5mcE)
 
 > 3. Deep_Learning看ch04的two_layer_net還有dataset。[參考連結點此](https://github.com/oreilly-japan/deep-learning-from-scratch)
