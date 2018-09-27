@@ -180,11 +180,12 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 16: An Introduction to Neural Network `Yurei` (9/25)
 
-> 1. [Brief Introduction of Deep Learning](pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/DL%20(v2).pdf) [video:](https://www.youtube.com/watch?v=Dr-WRlEFefw)
+> 1. [Brief Introduction of Deep Learning](pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/DL%20(v2).pdf)
+> *  [video:](https://www.youtube.com/watch?v=Dr-WRlEFefw)
 
-> 2. [Backpropagation] (pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf) [video:](https://www.youtube.com/watch?v=ibJpTrp5mcE)
-
-> 3. Deep_Learning看ch04的two_layer_net還有dataset。[參考連結：](https://github.com/oreilly-japan/deep-learning-from-scratch)
+> 2. [Backpropagation] (pdf:http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf)
+> *  [video:](https://www.youtube.com/watch?v=ibJpTrp5mcE)
+> 3. Deep_Learning看ch04的two_layer_net還有dataset。[參考連結點此](https://github.com/oreilly-japan/deep-learning-from-scratch)
 
 ### Week 17: lightGBM參數細緻說明及對預測的影響 `Fran` (10/1)
 
