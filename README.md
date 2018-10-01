@@ -188,7 +188,9 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 3. Deep_Learning看ch04的two_layer_net還有dataset。[參考連結點此](https://github.com/oreilly-japan/deep-learning-from-scratch)
 
-> 4. [Keras Demo Code](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
+> 4. [Yurei's Demo Code](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Demo_NN.ipynb)
+
+> 5. [Keras Demo Code](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
 
 ### Week 17: Introduction to Inner Product Space and Hash Table `Yurei&Fran` (10/1)
@@ -198,7 +200,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ##### Hash Table
 > *  [Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
 > *  [白話的 Hash Table 簡介](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)
-
+> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb)
 
 ### Week 18: lightGBM參數細緻說明及對預測的影響 `Fran` (10/8)
 
