@@ -225,7 +225,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 21: An introduction to CNN with Keras and Pytorch `泰瑋` (10/29)
 
-> 1. [Hung-yi Lee's CNN] (http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf); [video here](https://www.youtube.com/watch?v=FrKWiRv254g&feature=youtu.be)
+> 1. [Hung-yi Lee's CNN](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf)、[video here](https://www.youtube.com/watch?v=FrKWiRv254g&feature=youtu.be)
 
 
 
