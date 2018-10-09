@@ -211,7 +211,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > * 與catboost相比，在fit階段，lightGBM 預設是categorical_feature='auto'，自動處理類型為category的x ;但catboost需要標示類別型變數的index才可以
 > * 與catboost相比，lightGBM類別型變數可以為空值，catboost不行。
 
-> 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)
+> 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)、[wikipedia關於Hessian matrix](https://en.wikipedia.org/wiki/Hessian_matrix)
 
 > 3. Fran's demo code，重點項目如下：(連結尚未更新)
 > * 內含一個cell print出多的結果的code
@@ -220,6 +220,13 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 
 ### Week 19: TBD `Jesse` (10/15)
+
+### Week 20: TBD `Rex` (10/22)
+
+### Week 21: An introduction to CNN with Keras and Pytorch `泰瑋` (10/29)
+
+> 1. [Hung-yi Lee's CNN] (http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf); [video here](https://www.youtube.com/watch?v=FrKWiRv254g&feature=youtu.be)
+
 
 
 
