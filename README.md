@@ -204,7 +204,12 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 18: lightGBM參數細緻說明及對預測的影響 `Fran` (10/8)
 
-TBA
+##### lightGBM
+
+> 1. Categorical Feature Support - Optimal Split for Categorical Features. [官方說明文件點此](https://lightgbm.readthedocs.io/en/latest/Features.html#optimal-split-for-categorical-features)
+
+> 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram.
+
 
 ### Week 19: TBD `Jesse` (10/15)
 
