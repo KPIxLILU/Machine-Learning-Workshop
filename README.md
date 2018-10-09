@@ -207,8 +207,16 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ##### lightGBM
 
 > 1. Categorical Feature Support - Optimal Split for Categorical Features. [官方說明文件點此](https://lightgbm.readthedocs.io/en/latest/Features.html#optimal-split-for-categorical-features)
+> * 與label encoding相比，lightGBM不會對每個類別都給一個編號，而是有embedding的概念
+> * 與catboost相比，在fit階段，lightGBM 預設是categorical_feature='auto'，自動處理類型為category的x ;但catboost需要標示類別型變數的index才可以
+> * 與catboost相比，lightGBM類別型變數可以為空值，catboost不行。
 
-> 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram.
+> 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)
+
+> 3. Fran's demo code，重點項目如下：(連結尚未更新)
+> * 內含一個cell print出多的結果的code
+> * predict出機率後，轉化成成dataframe在設定門檻的code
+> * 兩種feature importance
 
 
 ### Week 19: TBD `Jesse` (10/15)
