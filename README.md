@@ -215,7 +215,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 3. Fran's demo code，重點項目如下：(連結尚未更新)
 > * 內含一個cell print出多的結果的code
-> * predict出機率後，轉化成成dataframe在設定門檻的code
+> * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
 > * 兩種feature importance
 
 
