@@ -100,8 +100,10 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 0. Franの課外小教室「看不懂Ｏ(MN)、Ｏ(N^2)什麼意思？」大Ｏ符號是一種漸進符號，用來描述數列級數的層級，無限大還是有很多不同層次的，取決於函數中高階項等因素。在電腦科學中引進這樣的概念描述演算法的時間複雜度，有助於頗析不同演算法之間的數量級差異。以下提供對我來說比較好的例子理解：(1)傳統協同過濾假設M個顧客對於N種產品有偏好，整體的計算維度就是Ｏ(MN)，當然這沒有考慮到資料的稀疏性。(2) Bubble Sort是一個無腦的依序倆倆比較，如果順序錯了就交換順序，並往前再比，最慘的情況就是比到第n個，結果發現最小，再往回比n次，才能排到第一個，整體的計算維度就是Ｏ(N^2)。(3)矩陣的乘法就是Ｏ(N^3)。參考資料：[大Ｏ符號](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7), [時間複雜度](https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6)
 
 > 1. Factorization Machines的論文[Steffen Rendle](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)。
-> 2. 貸款三少推薦[FM好文1](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
-> 3. 課前素材（有閒再看），初探產品推薦演算法之演進及其優缺點。[Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
+> 2. 貸款三少推薦[FM好文](http://www.jefkine.com/recsys/2017/03/27/factorization-machines/)
+> 3. 貸款三少推薦[FFM好文](http://ailab.criteo.com/ctr-prediction-linear-model-field-aware-factorization-machines/)
+> 4. 貸款三少推薦[好文：深入FFM原理与实践](https://tech.meituan.com/deep_understanding_of_ffm_principles_and_practices.html)
+> 5. 課前素材（有閒再看），初探產品推薦演算法之演進及其優缺點。[Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
 
 ### Week 9: Sharing I(Feature engineering & Model tuning) `Rex&Erik` (8/6)
 
@@ -213,7 +215,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)、[wikipedia關於Hessian matrix](https://en.wikipedia.org/wiki/Hessian_matrix)
 
-> 3. Fran's demo code，重點項目如下：(連結尚未更新)
+> 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/Fraud_Detection_demo_Francis.ipynb) (門檻的demo待更新)
 > * 內含一個cell print出多的結果的code
 > * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
 > * 兩種feature importance
