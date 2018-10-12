@@ -215,7 +215,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)、[wikipedia關於Hessian matrix](https://en.wikipedia.org/wiki/Hessian_matrix)
 
-> 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/Fraud_Detection_demo_Francis.ipynb) (門檻的demo待更新)
+> 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/Fraud_Detection_demo_Francis.ipynb) 、[Threshold Version](https://github.com/sunchigg/JrML/blob/master/Threshold_Version.ipynb)
 > * 內含一個cell print出多的結果的code
 > * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
 > * 兩種feature importance
