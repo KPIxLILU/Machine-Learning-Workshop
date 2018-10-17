@@ -167,6 +167,8 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 ### Week 13: Sharing IV(Fraud Detection) `芳妤` (9/3)
 
+> * TBA
+
 ### Week 14: Discussion (9/10)
 https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9tYr8/edit#gid=0
 
@@ -217,11 +219,14 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/Fraud_Detection_demo_Francis.ipynb) 、[Threshold Version](https://github.com/sunchigg/JrML/blob/master/Threshold_Version.ipynb)
 > * 內含一個cell print出多的結果的code
+> * import seaborn as sns做出時間與盜刷的分佈
 > * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
-> * 兩種feature importance
+> * 兩種feature importance: 'gain','split'
 
 
-### Week 19: TBD `Jesse` (10/15)
+### Week 19: TBD `Jesse` (10/18)
+
+> * TBA
 
 ### Week 20: TBD `Rex` (10/22)
 
