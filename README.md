@@ -224,11 +224,19 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > * 兩種feature importance: 'gain','split'
 
 
-### Week 19: TBD `Jesse` (10/18)
+### Week 19: xlearn實作 `Jesse` (10/18)
 
 > * TBA
 
-### Week 20: TBD `Rex` (10/22)
+##### Franの課外小教室
+
+> 1. [demo_abt_Arguments&KeywordArguments](https://github.com/sunchigg/Python_base/blob/master/*args%20%26%20**kwargs.ipynb)
+
+> 2. [透過 F1 cumulative results檢視成效](TBA)
+
+### Week 20: catboost是如何針對category變數做處理以及其參數調整的影響 `Rex` (10/22)
+
+> * TBA
 
 ### Week 21: An introduction to CNN with Keras and Pytorch `泰瑋` (10/29)
 
