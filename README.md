@@ -196,6 +196,8 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 5. [Keras Demo Code](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
+> 6. [fran's review_TwoLayerNN_demo](https://github.com/sunchigg/JrML/blob/master/TwoLayerNN_demo.ipynb)
+
 
 ### Week 17: Introduction to Inner Product Space and Hash Table `Yurei&Fran` (10/1)
 
