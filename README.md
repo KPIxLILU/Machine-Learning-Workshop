@@ -240,6 +240,13 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > * TBA
 
+##### Franの課外小教室
+
+> 1. [demo_abt_chunksize_read](https://github.com/sunchigg/Python_base/blob/master/chunksize_read.ipynb)
+
+> 2. [demo_abt_SLEEP()](https://github.com/sunchigg/Python_base/blob/master/time.sleep().ipynb)
+
+
 ### Week 21: An introduction to CNN with Keras and Pytorch `泰瑋` (10/29)
 
 > 1. [Hung-yi Lee's CNN](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf)、[video here](https://www.youtube.com/watch?v=FrKWiRv254g&feature=youtu.be)
