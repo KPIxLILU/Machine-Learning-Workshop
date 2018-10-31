@@ -28,7 +28,7 @@
 > 2. [Link to Demo Code](https://github.com/sunchigg/JrML/blob/master/Rex/Logistic.ipynb)([Data](https://github.com/sunchigg/JrML/blob/master/Rex/rex_22.csv))
 
 
-### Week 4: Classification And Regression Tree (CART) `信賢`(7/2)
+### Week 4: Classification And Regression Tree (CART) `信賢Erik `(7/2)
 - [[資料分析&機器學習] 第3.5講 : 決策樹(Decision Tree)以及隨機森林(Random Forest)介紹)](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
 - 機器學習技法
 > 1.[Decision Tree Hypothesis](https://www.youtube.com/watch?v=dAqPpAXnMJ4&index=34&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
@@ -251,6 +251,11 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 1. [Hung-yi Lee's CNN](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf)、[video here](https://www.youtube.com/watch?v=FrKWiRv254g&feature=youtu.be)
 
+> 2. [[資料分析&機器學習] 第5.1講 卷積神經網絡介紹](https://gist.github.com/yehjames/e112a551781f27932c331b58b128d4a5#file-5-1-convolutional-neural-network-ipynb)
 
+
+### Week 22: Kaggle Share : What's Cooking? & Introduction to Regular Expression `Erik` (11/5)
+
+> * TBA
 
 
