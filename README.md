@@ -262,5 +262,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 3.[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
 
+### Week 23: TBD `芳妤` (11/12)
 
+> * TBA
 
