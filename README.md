@@ -253,6 +253,8 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. [[資料分析&機器學習] 第5.1講 卷積神經網絡介紹](https://gist.github.com/yehjames/e112a551781f27932c331b58b128d4a5#file-5-1-convolutional-neural-network-ipynb)
 
+> 3. [fran's review & demo code_CNN_MNIST](https://github.com/sunchigg/JrML/blob/master/CNN_review%26demo.ipynb)
+
 
 ### Week 22: Kaggle Share : What's Cooking? & Introduction to Regular Expression `Erik` (11/5)
 
