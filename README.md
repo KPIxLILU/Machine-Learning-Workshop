@@ -266,7 +266,10 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 4.[Re正規表達式練習題](https://regexone.com)
 
-### Week 23: TBD `芳妤` (11/12)
+### Week 23: Utilizing Embedding Techniques with proNet and FastFM `宛誼` (11/12)
 
-> * TBA
+> 1. [proNet](https://github.com/cnclabs/proNet-core)
+
+> 2. [FastFM](https://github.com/ibayer/fastFM)
+
 
