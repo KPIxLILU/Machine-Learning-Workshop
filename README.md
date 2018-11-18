@@ -234,7 +234,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 1. [demo_abt_Arguments&KeywordArguments](https://github.com/sunchigg/Python_base/blob/master/*args%20%26%20**kwargs.ipynb)
 
-> 2. [透過 F1 cumulative results檢視成效](TBA)
+> 2. [透過 F1 cumulative results檢視成效](TBA)https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/NetworkEmbedding.pdf
 
 ### Week 20: catboost是如何針對category變數做處理以及其參數調整的影響 `Rex` (10/22)
 
@@ -270,6 +270,6 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 1. [proNet](https://github.com/cnclabs/proNet-core)
 
-> 2. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/NetworkEmbedding.pdf)
+> 2. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/NetworkEmbedding.pdf)
 
 
