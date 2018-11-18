@@ -266,10 +266,12 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 4.[Re正規表達式練習題](https://regexone.com)
 
-### Week 23: Utilizing Embedding Techniques with proNet and FastFM `宛誼` (11/12)
+### Week 23: Utilizing Embedding Techniques with proNet and Xlearn `宛誼` (11/12)
 
 > 1. [proNet](https://github.com/cnclabs/proNet-core)
 
 > 2. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Tutorial/NetworkEmbedding.pdf)
+
+> 3. [Link to Code](TBA)
 
 
