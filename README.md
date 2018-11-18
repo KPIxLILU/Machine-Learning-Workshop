@@ -270,6 +270,6 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 1. [proNet](https://github.com/cnclabs/proNet-core)
 
-> 2. [FastFM](https://github.com/ibayer/fastFM)
+> 2. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/NetworkEmbedding.pdf)
 
 
