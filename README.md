@@ -275,3 +275,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > 3. [Link to Code](TBA)
 
 
+### Week 24: How Recurrent Neural Networks and Long Short-Term Memory Work `芳妤` (11/23)
+
+> 1. https://www.nownews.com/news/20181117/3073576/?utm_source=yahoo&utm_medium=rss&utm_campaign=20181117"
+
