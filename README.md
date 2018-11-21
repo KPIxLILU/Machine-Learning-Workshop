@@ -279,6 +279,8 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 1. https://www.nownews.com/news/20181117/3073576/
 
+> 2. [link to PTT] http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RNN%20(v2).pdf
+
 ### Week 25: TBD `Peggy` (11/26)
 
 > * TBA
