@@ -266,7 +266,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 4.[Re正規表達式練習題](https://regexone.com)
 
-### Week 23: Utilizing Embedding Techniques with proNet and Xlearn `宛誼` (11/12)
+### Week 23: Utilizing Embedding Techniques with proNet and Xlearn `宛誼` (11/14)
 
 > 1. [proNet](https://github.com/cnclabs/proNet-core)
 
@@ -277,5 +277,8 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 24: How Recurrent Neural Networks and Long Short-Term Memory Work `芳妤` (11/23)
 
-> 1. https://www.nownews.com/news/20181117/3073576/?utm_source=yahoo&utm_medium=rss&utm_campaign=20181117"
+> 1. https://www.nownews.com/news/20181117/3073576/
 
+### Week 25: TBD `Peggy` (11/26)
+
+> * TBA
