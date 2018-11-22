@@ -277,7 +277,18 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 24: How Recurrent Neural Networks and Long Short-Term Memory Work `芳妤` (11/23)
 
-> 1. https://www.nownews.com/news/20181117/3073576/
+##### RNN
+
+> 1. http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RNN%20(v2).pdf
+
+> 2. [Hung-yi Lee's CNN Part I (topic this week)](https://www.youtube.com/watch?v=xCGidAeyS4M)
+
+> 3. [Hung-yi Lee's CNN Part II](https://www.youtube.com/watch?v=rTqmWlnwz_0)
+
+##### RNN & LSTM
+
+> 4. [how_rnns_lstm_work](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html)
+
 
 ### Week 25: TBD `Peggy` (11/26)
 
