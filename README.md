@@ -206,7 +206,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ##### Hash Table
 > *  [Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
 > *  [白話的 Hash Table 簡介](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)
-> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb)
+> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb) 
 
 ### Week 18: lightGBM參數細緻說明及對預測的影響 `Fran` (10/8)
 
@@ -258,13 +258,15 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ### Week 22: Kaggle Share : What's Cooking? & Introduction to Regular Expression `Erik` (11/5)
 
-> 1.[TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)
+> 1. [TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)
 
-> 2.[nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
+> 2. [nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
 
-> 3.[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
+> 3. [What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
 
-> 4.[Re正規表達式練習題](https://regexone.com)
+> 4. [Re正規表達式練習題](https://regexone.com)
+
+> 5. [fold of fran's review](https://github.com/sunchigg/JrML/tree/master/What's%20Cooking). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 23: Utilizing Embedding Techniques with proNet and Xlearn `宛誼` (11/14)
 
