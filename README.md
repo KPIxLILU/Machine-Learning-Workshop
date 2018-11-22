@@ -21,7 +21,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week2.Linear%20Regression.pdf)
 > 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/Linear%20Regression/Linear%20Regression.ipynb)([Data](https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip))
-> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb)
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 3: Logistic Regression `Rex`(6/25)
 > 1. [Link to PDF](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week3.Logistic%20Regression.pdf)
@@ -41,7 +41,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
 > 2. [Link to code](https://github.com/erik1110/Kaggle/blob/master/Titantic/Titantic-Decision%20Tree2.ipynb)
-> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Titanic_test/CART_DEMO_review_Titanic.ipynb)
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Titanic_test/CART_DEMO_review_Titanic.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/12)
 
@@ -91,7 +91,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 2. [Documentation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
 > 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20with%20GridSearch%20and%20Bayesian%20Optimization(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
-> 5. [Link to Demo Code_fran's review_HomeCredit_lightGBM_GridSearch](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_GridSearch.ipynb) , [Link to Demo Code_fran's review_HomeCredit_lightGBM_bayes_opt](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_bayes_opt.ipynb)
+> 5. [Link to Demo Code_fran's review_HomeCredit_lightGBM_GridSearch](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_GridSearch.ipynb) , [Link to Demo Code_fran's review_HomeCredit_lightGBM_bayes_opt](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_bayes_opt.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 8: Factorization Machines and KPIxLILU@Kaggle `fran&泰瑋` (7/30) `FM種子顧問：宛誼`
 
@@ -126,7 +126,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > * [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 > 3. Textual information of Image Materials with GOOGLE DRIVE API
 > 4. Titanic sharing and discussion.
-> * [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb)
+> * [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
@@ -163,7 +163,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 >A:不太一樣。隨機森林的feature importance是計算每個變數與目標y的重要程度，是一種監督式學習；而PCA是尋找一個座標系，將對應過去的資料選取變異數大的變數（方向）當作座標軸，而不考慮與何種y之間的關係，僅考慮資料間的差異。
 
-> * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/PCA_applications/PCA_demo.ipynb)
+> * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/PCA_applications/PCA_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 13: Sharing IV(Fraud Detection) `芳妤` (9/3)
 
@@ -196,7 +196,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 5. [Keras Demo Code](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
-> 6. [fran's review_TwoLayerNN_demo](https://github.com/sunchigg/JrML/blob/master/TwoLayerNN_demo.ipynb)
+> 6. [fran's review_TwoLayerNN_demo](https://github.com/sunchigg/JrML/blob/master/TwoLayerNN_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 17: Introduction to Inner Product Space and Hash Table `Yurei&Fran` (10/1)
@@ -206,7 +206,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ##### Hash Table
 > *  [Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
 > *  [白話的 Hash Table 簡介](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)
-> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb) 
+> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb) . Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 18: lightGBM參數細緻說明及對預測的影響 `Fran` (10/8)
 
@@ -223,7 +223,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > * 內含一個cell print出多的結果的code
 > * import seaborn as sns做出時間與盜刷的分佈
 > * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
-> * 兩種feature importance: 'gain','split'
+> * 兩種feature importance: 'gain','split'. Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 19: xlearn實作 `Jesse` (10/18)
@@ -253,7 +253,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. [[資料分析&機器學習] 第5.1講 卷積神經網絡介紹](https://gist.github.com/yehjames/e112a551781f27932c331b58b128d4a5#file-5-1-convolutional-neural-network-ipynb)
 
-> 3. [fran's review & demo code_CNN_MNIST](https://github.com/sunchigg/JrML/blob/master/CNN_review%26demo.ipynb)
+> 3. [fran's review & demo code_CNN_MNIST](https://github.com/sunchigg/JrML/blob/master/CNN_review%26demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 22: Kaggle Share : What's Cooking? & Introduction to Regular Expression `Erik` (11/5)
@@ -266,7 +266,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 4. [Re正規表達式練習題](https://regexone.com)
 
-> 5. [fold of fran's review](https://github.com/sunchigg/JrML/tree/master/What's%20Cooking). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 5. [folder of fran's review](https://github.com/sunchigg/JrML/tree/master/What's%20Cooking). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 23: Utilizing Embedding Techniques with proNet and Xlearn `宛誼` (11/14)
 
