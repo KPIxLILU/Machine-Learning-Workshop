@@ -279,7 +279,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 ##### RNN
 
-> 1. http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RNN%20(v2).pdf
+> 1. [Link to PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RNN%20(v2).pdf)
 
 > 2. [Hung-yi Lee's CNN Part I (topic this week)](https://www.youtube.com/watch?v=xCGidAeyS4M)
 
@@ -290,7 +290,6 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 > 4. [how_rnns_lstm_work](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html)
 
 
-> 2. [Link to PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RNN%20(v2).pdf)
 
 ### Week 25: TBD `Peggy` (11/26)
 
