@@ -291,8 +291,15 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 4. [how_rnns_lstm_work](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html)
 
+### Break
 
-
-### Week 25: TBD `Peggy` (11/26)
+### Week 26: how to do EDA ? (資料探索與作圖) `Peggy` (12/7)
 
 > * TBA
+
+### Week 27: TBD `瑞河` (12/？)
+
+> * TBA
+
+
+
