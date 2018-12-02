@@ -41,7 +41,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week4.DecisionTree(CART).pdf)
 > 2. [Link to code](https://github.com/erik1110/Kaggle/blob/master/Titantic/Titantic-Decision%20Tree2.ipynb)
-> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Titanic_test/CART_DEMO_review_Titanic.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/03_01_Titanic_test/CART_DEMO_review_Titanic.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 5: Random Forest & Ensemble `fran&昱睿`(7/12)
 
@@ -64,7 +64,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > https://www.youtube.com/watch?v=aX6ZiIWLjdk&index=42&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2
 > 2. PPT 
 > https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/GBM.pdf
-> 3. [Link to Demo Code_fran's review_Titanic](https://github.com/sunchigg/JrML/blob/master/GBDT_Titanic.ipynb)
+> 3. [Link to Demo Code_fran's review_Titanic](https://github.com/sunchigg/JrML/blob/master/03_01_Titanic_test/GBDT_Titanic.ipynb) Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 - XGBOOST 
 - [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/xgboost_PDF.pdf)
@@ -91,7 +91,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 2. [Documentation for LightGBM](https://media.readthedocs.org/pdf/testlightgbm/latest/testlightgbm.pdf)
 > 3. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/LightGBM.pdf)
 > 4. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/LightGBM/LightGBM%20with%20GridSearch%20and%20Bayesian%20Optimization(Home%20Credit).ipynb)([Data](https://www.kaggle.com/c/home-credit-default-risk/data))
-> 5. [Link to Demo Code_fran's review_HomeCredit_lightGBM_GridSearch](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_GridSearch.ipynb) , [Link to Demo Code_fran's review_HomeCredit_lightGBM_bayes_opt](https://github.com/sunchigg/JrML/blob/master/HomeCredit_test/lightGBM_bayes_opt.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 5. [Link to Demo Code_fran's review_HomeCredit_lightGBM_GridSearch](https://github.com/sunchigg/JrML/blob/master/03_02_HomeCredit_test/lightGBM_GridSearch.ipynb) , [Link to Demo Code_fran's review_HomeCredit_lightGBM_bayes_opt](https://github.com/sunchigg/JrML/blob/master/03_02_HomeCredit_test/lightGBM_bayes_opt.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 8: Factorization Machines and KPIxLILU@Kaggle `fran&泰瑋` (7/30) `FM種子顧問：宛誼`
 
@@ -126,7 +126,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > * [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 > 3. Textual information of Image Materials with GOOGLE DRIVE API
 > 4. Titanic sharing and discussion.
-> * [Demo code](https://github.com/sunchigg/JrML/blob/master/Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> * [Demo code](https://github.com/sunchigg/JrML/blob/master/03_01_Titanic_test/LightGBM_Titanic_UsingFeatureImportance_Gsearch.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 11: Sharing III (Unauthorized_CC_TXN) `Peggy` (8/24)
@@ -262,7 +262,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. [nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
 
-> 3. [What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
+> 3. [What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/03_04_What's%20cooking-nltk.ipynb)
 
 > 4. [Re正規表達式練習題](https://regexone.com)
 
