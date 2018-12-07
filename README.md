@@ -119,10 +119,10 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 ### Week 10: Sharing II(Vision API Guild & EDM feature engineering) `Fran` (8/13)
 
 > 1. Subject Extraction with Jieba
-> * [Jieba&GOOG_TransAPI_demo](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/Jieba%26GOOG_TransAPI_demo.ipynb)
-> * [demo_data](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/EDM_features_for_demo.csv)
+> * [Jieba&GOOG_TransAPI_demo](https://github.com/sunchigg/JrML/blob/master/10_02_GoogleClouldAPI/Jieba%26GOOG_TransAPI_demo.ipynb)
+> * [demo_data](https://github.com/sunchigg/JrML/blob/master/10_02_GoogleClouldAPI/EDM_features_for_demo.csv)
 > 2. Label Annotations of Image Materials with GOOGLE VISION API
-> * [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
+> * [Demo code_VisionAPI_demo_images2DataFrame](https://github.com/sunchigg/JrML/blob/master/10_02_GoogleClouldAPI/VisionAPI_demo_images2DataFrame.ipynb)
 > * [參考網站](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 > 3. Textual information of Image Materials with GOOGLE DRIVE API
 > 4. Titanic sharing and discussion.
@@ -163,7 +163,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 
 >A:不太一樣。隨機森林的feature importance是計算每個變數與目標y的重要程度，是一種監督式學習；而PCA是尋找一個座標系，將對應過去的資料選取變異數大的變數（方向）當作座標軸，而不考慮與何種y之間的關係，僅考慮資料間的差異。
 
-> * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/PCA_applications/PCA_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> * [fran's review & demo code](https://github.com/sunchigg/JrML/blob/master/10_01_PCA_applications/PCA_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 13: Sharing IV(Fraud Detection) `芳妤` (9/3)
 
@@ -206,7 +206,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ##### Hash Table
 > *  [Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
 > *  [白話的 Hash Table 簡介](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)
-> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/hashtable%20applications/hashtable_demo1.ipynb) . Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> *  [fran's demo abt Hash Table](https://github.com/sunchigg/JrML/blob/master/10_03_hashtable%20applications/hashtable_demo1.ipynb) . Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 18: lightGBM參數細緻說明及對預測的影響 `Fran` (10/8)
 
