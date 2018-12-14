@@ -219,7 +219,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. feature_histogram(Categorical Feature被label成正整數標籤的依據) - LightGBM sorts the histogram (for a categorical feature) according to its accumulated values (sum_gradient / sum_hessian) and then finds the best split on the sorted histogram. [官方說明的code點此](https://github.com/Microsoft/LightGBM/blob/master/src/treelearner/feature_histogram.hpp)、[wikipedia關於Hessian matrix](https://en.wikipedia.org/wiki/Hessian_matrix)
 
-> 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/Fraud_Detection_demo_Francis.ipynb) 、[Threshold Version](https://github.com/sunchigg/JrML/blob/master/Threshold_Version.ipynb)
+> 3. Fran's demo code，重點項目如下：[Sampling Version](https://github.com/sunchigg/JrML/blob/master/03_51 Inclass_esunfrauddetection1809new_official/Fraud_Detection_demo_Francis.ipynb) 、[Threshold Version](https://github.com/sunchigg/JrML/blob/master/03_51 Inclass_esunfrauddetection1809new_official/Threshold_Version.ipynb)
 > * 內含一個cell print出多的結果的code
 > * import seaborn as sns做出時間與盜刷的分佈
 > * predict出機率後，轉化成成dataframe再設定門檻(threshold)的code。預設來說，一般的predict是機率>=0.5的話就歸到那一類。(我在Logistic Regression有驗證過)
@@ -297,9 +297,17 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > * TBA
 
-### Week 27: TBD `瑞河` (12/？)
+### Week 27: Imbalanced-learn `瑞河` (12/12)
 
-> * TBA
+> 1. [Python packages_imbalanced-learn](https://imbalanced-learn.readthedocs.io/en/stable/index.html)
 
+> 2. [kaggle_resampling-strategies-for-imbalanced-datasets](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
+
+> 3. Other materials
+
+> * https://medium.com/anomaly-detection-with-python-and-r/sampling-techniques-for-extremely-imbalanced-data-part-i-under-sampling-a8dbc3d8d6d8
+> * https://blog.csdn.net/kizgel/article/details/78553009
+> * https://www.itread01.com/content/1540987816.html
+> * https://zhuanlan.zhihu.com/p/34782497
 
 
