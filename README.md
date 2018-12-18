@@ -296,7 +296,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 ### Week 26: how to do EDA ? (資料探索與作圖) `Peggy` (12/7)
 
 > 1. [Link to demo code](https://github.com/peggy302003/Sharing_Material/blob/master/EDA_practice_script.ipynb)
-> 2. [EDA 重點整理]（https://hackmd.io/s/rJ-GqXSR7）
+> 2. [EDA重點整理](https://hackmd.io/s/rJ-GqXSR7）
 > 3. 參考資料：
    > *  https://www.itl.nist.gov/div898/handbook/eda/section1/eda17.htm
    > *  https://python-graph-gallery.com/
