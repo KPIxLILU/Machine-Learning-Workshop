@@ -25,7 +25,7 @@
 
 ### Week 3: Logistic Regression `Rex`(6/25)
 > 1. [Link to PDF](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week3.Logistic%20Regression.pdf)
-> 2. [Link to Demo Code](https://github.com/sunchigg/JrML/blob/master/Rex/Logistic.ipynb)([Data](https://github.com/sunchigg/JrML/blob/master/Rex/rex_22.csv))
+> 2. [Link to Demo Code](https://github.com/sunchigg/JrML/blob/master/99_Other_Rex/Logistic.ipynb)([Data](https://github.com/sunchigg/JrML/blob/master/99_Other_Rex/rex_22.csv))
 
 
 ### Week 4: Classification And Regression Tree (CART) `信賢Erik `(7/2)
@@ -112,7 +112,7 @@ PDF:[pdf](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Ensemble%2
 > 關於鐵達尼的Data Sources，有人問gender_submission.csv是什麼呢？是只有根據gender是男女的資訊來示範預估生存與否。因此我們要做的就是把模型predict出來的Survived欄位灌到這張表，就可以上傳kaggle啦。(Fran以上補充)
 > 2. Method: 不限(EX:Random Forest, XGBoost, LightGBM, Ensemble, Stacking...)
 > 3. Demo: 於8/6大家一起討論與分享，主講人可以先跟大家說要用什麼資料
-> 4. [Link to Demo by Rex](https://github.com/sunchigg/JrML/blob/master/Rex/XGB_0.80382.ipynb)
+> 4. [Link to Demo by Rex](https://github.com/sunchigg/JrML/blob/master/99_Other_Rex/XGB_0.80382.ipynb)
 > 5. [Erik與大家分享的Titanic特徵工程作法參考網站](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
 
 
@@ -196,7 +196,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 5. [Keras Demo Code](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
-> 6. [fran's review_TwoLayerNN_demo](https://github.com/sunchigg/JrML/blob/master/TwoLayerNN_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 6. [fran's review_TwoLayerNN_demo](https://github.com/sunchigg/JrML/blob/master/02_04_Neural%20Network/TwoLayerNN_demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 17: Introduction to Inner Product Space and Hash Table `Yurei&Fran` (10/1)
@@ -253,7 +253,7 @@ https://docs.google.com/spreadsheets/d/1wpOsiMSn2PTUX4KsdIOibhelGktq6vB5H1pypc9t
 
 > 2. [[資料分析&機器學習] 第5.1講 卷積神經網絡介紹](https://gist.github.com/yehjames/e112a551781f27932c331b58b128d4a5#file-5-1-convolutional-neural-network-ipynb)
 
-> 3. [fran's review & demo code_CNN_MNIST](https://github.com/sunchigg/JrML/blob/master/CNN_review%26demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 3. [fran's review & demo code_CNN_MNIST](https://github.com/sunchigg/JrML/blob/master/02_04_Neural%20Network/CNN_review%26demo.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 
 ### Week 22: Kaggle Share : What's Cooking? & Introduction to Regular Expression `Erik` (11/5)
