@@ -21,7 +21,7 @@
 - 投影片＆Ｃode
 > 1. [Link to PPT](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week2.Linear%20Regression.pdf)
 > 2. [Link to Demo Code](https://github.com/mayritaspring/Data-Science/blob/master/Linear%20Regression/Linear%20Regression.ipynb)([Data](https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip))
-> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/Linear_Regression_DEMO_reivew.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
+> 3. [Link to Demo Code_fran's review](https://github.com/sunchigg/JrML/blob/master/98_KPIxLILU/Linear_Regression_DEMO_reivew.ipynb). Feel free to contact [me](https://github.com/sunchigg) with any questions and further details.
 
 ### Week 3: Logistic Regression `Rex`(6/25)
 > 1. [Link to PDF](https://github.com/KPIxLILU/Machine-Learning-Workshop/blob/master/Week3.Logistic%20Regression.pdf)
